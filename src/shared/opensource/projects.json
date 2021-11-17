@@ -1,0 +1,99 @@
+{"data":[
+    {
+        "name":"Whatsapp gallery Organiser",
+        "url":"https://github.com/AbhishekAdarshMishra/Mobile_Gallary_image_classifier",
+        "description":[
+            "Deep Learning CNN model using Keras and Tensorflow with an accuracy rate of 85-90% predict the category of gallery image into cars, memes, selfies, screenshots, etc, to organize them. This function is implemented through a web app using Flask API."
+        ],
+        "isFork":false,
+        "languages":[
+            {"name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"}
+            ]
+    },
+    {
+        "name":"(MERN) College Community",
+        "url":"https://github.com/AbhishekAdarshMishra/kiitCommunityFrontend",
+        "description":[
+            "React , Mongodb , Node.js , Express.js Based web Application. ",
+            "It is a college community social media web app to share knowledege , solving queries , interaction between faculty , staff anf student. Providing notes , Notice etc."
+        ],
+        "isFork":false,
+        "languages":[
+            {"name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"}
+            ]
+    },
+    {
+        "name":"MEAN stack Project",
+        "url":"https://www.appleyego.com/",
+        "description":[
+            "Angular , Node.js, MongoDb , Express.js Based Web Application.",
+            "Functions: A web application for students to find Job applications posted by Companies or Govt., Last year Paper, scholarships details, Results etc."
+        ],
+        "isFork":false,
+        "languages":[
+            {"name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"}
+            ]
+    },
+    {
+        "name":"AR/VR Android App",
+        "url":"https://www.dropbox.com/s/dkswp4ihxkxrl09/Record_2019-08-15-06-15-07.mp4?dl=0",
+        "description":[
+            "Developed in Unity with c#.",
+            "Digital Visiting card (On scanning card with the android app a 3d model comes out to explain about the company and other 3d animation explanations)."
+        ],
+        "isFork":false,
+        "languages":[
+            {"name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"}
+            ]
+    },
+    {
+        "name":"Facial Expression Recognition",
+        "url":"https://github.com/AbhishekAdarshMishra/Facial-Expression_recognition",
+        "description":[
+            "Developed a CNN model to detect the expression of a face in a video",
+            "coursera Guided project with certification"
+        ],
+        "isFork":false,
+        "languages":[
+            {"name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"}
+            ]
+    },
+    {
+        "name":"ML Basic Projects (Python)",
+        "url":"https://github.com/AbhishekAdarshMishra/Machine_learning",
+        "description":["Object detection , Object Recognition ,Dominant colour"],
+        "isFork":false,
+        "languages":[
+            {"name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"}
+            ]
+    },
+    {
+        "name":"Angular (Movie WebApp)",
+        "url":"https://github.com/AbhishekAdarshMishra/AngularMovieApp",
+        "description":[
+            "Netflix clone with Angular.",
+            "List of Movies according to category"
+        ],
+        "isFork":false,
+        "languages":[
+            {"name":"HTML","iconifyClass":"logos-html-5"},
+            {"name":"CSS","iconifyClass":"logos-css-3"},
+            {"name":"JavaScript","iconifyClass":"logos-javascript"}
+            ]
+    }
+    
+    
+    
+]}
